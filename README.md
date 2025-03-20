@@ -4,18 +4,18 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adismort14&column=9" alt="adismort14" /></a> </p>
 -->
-- https://adisan.tech
+- [adisan.tech](https://adisan.tech)  
 
 - My projects are available [here](https://github.com/adisan-dev?tab=repositories) and at [@adismort14](https://github.com/adismort14?tab=repositories).
 
 - Currently SDE Intern @Amazon.
 
-- Prev Early Stage product startups: ClearFeed, CloudDefense.ai, Logy.ai, Magnetica, IBITF.
+- Prev early-stage product startups: ClearFeed, CloudDefense.ai, Logy.ai, Magnetica, IBITF.
 
 - You will catch me
   - always building. 
   - deepdiving into the LLM space.
-  - working on the hardest problem I find.
+  - tackling the hardest problem I find.
     
 - 📫 Reach me at **adityasankhla14@gmail.com**
 
@@ -38,6 +38,18 @@
 </p>
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=adisan-dev&show_icons=true&locale=en&theme=aura_dark" alt="adisan" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adisan-dev&theme=aura_dark" alt="adisan" />
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=adisan-dev&show_icons=true&locale=en&theme=aura_dark" alt="adisan" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=adisan-dev&theme=aura_dark" alt="adisan" /></td>
+  </tr>
+</table>
+
+
+<!-- 
+<div align="center" style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=adisan-dev&show_icons=true&locale=en&theme=aura_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adisan-dev&theme=aura_dark" alt="GitHub Streak" />
+</div>
+-->
