@@ -13,7 +13,7 @@
 - Prev early-stage product startups: ClearFeed, CloudDefense.ai, Logy.ai, Magnetica, IBITF.
 
 - You will catch me
-  - always building. 
+  - building, always. 
   - deepdiving into the LLM space.
   - tackling the hardest problem I find.
     
