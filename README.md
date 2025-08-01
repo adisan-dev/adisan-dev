@@ -6,11 +6,13 @@
 -->
 - [adisan.tech](https://adisan.tech)  
 
-- My projects are available [here](https://github.com/adisan-dev?tab=repositories) and at [@adismort14](https://github.com/adismort14?tab=repositories).
+<!-- - My projects are available [here](https://github.com/adisan-dev?tab=repositories) and at [@adismort14](https://github.com/adismort14?tab=repositories). 
 
 - Currently SDE Intern @Amazon.
 
 - Prev early-stage product startups: ClearFeed, CloudDefense.ai, Logy.ai, Magnetica, IBITF.
+-->
+- Currently SWE @[FAANG](https://www.investopedia.com/terms/f/faang-stocks.asp#toc-what-are-faang-stocks). 5x Ex-startups.
 
 - You will catch me
   - building, always. 
@@ -21,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://in.linkedin.com/in/adismort" target="blank"><img align="center" src="linkedin_icon.png" alt="adismort" height="64" width="64" /></a>
-<a href="https://twitter.com/adismort" target="_blank">
+<!-- <a href="https://in.linkedin.com/in/adismort" target="blank"><img align="center" src="linkedin_icon.png" alt="adismort" height="64" width="64" /></a>
+<a href="https://twitter.com/adismort" target="_blank"> 
   <img align="center" src="https://github.com/adismort14/adismort14/assets/104080429/a774863e-c209-4197-b93d-61f10d6f643b" alt="adismort X handle" height="56" width="56" />
-</a>
+</a>-->
 
 </p>
 
