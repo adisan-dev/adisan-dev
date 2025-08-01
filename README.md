@@ -19,7 +19,7 @@
   - deepdiving into the LLM space.
   - tackling the hardest problem I find.
     
-- 📫 Reach me at **adityasankhla14@gmail.com**
+<!-- - 📫 Reach me at **adityasankhla14@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
