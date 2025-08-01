@@ -1,5 +1,7 @@
 
-<h1 align="center">I'm Aditya Sankhla. A Builder.</h1>
+<!-- <h1 align="center">I'm Aditya Sankhla. A Builder.</h1> -->
+<h1 align="center">I'm AdiSan. A Builder.</h1>
+
 <!-- <h3 align="center">An Engineer and Computer Enthusiast.</h3> 
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adismort14&column=9" alt="adismort14" /></a> </p>
@@ -16,7 +18,7 @@
 
 - You will catch me
   - building, always. 
-  - deepdiving into the LLM space.
+ <!-- - deepdiving into the LLM space. -->
   - tackling the hardest problem I find.
     
 <!-- - 📫 Reach me at **adityasankhla14@gmail.com** -->
