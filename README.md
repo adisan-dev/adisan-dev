@@ -26,8 +26,8 @@
 <p align="left">
 <!-- <a href="https://in.linkedin.com/in/adismort" target="blank"><img align="center" src="linkedin_icon.png" alt="adismort" height="64" width="64" /></a> -->
 <a href="https://twitter.com/adisan_twt" target="_blank"> 
-<!--  <img align="center" src="https://github.com/adismort14/adismort14/assets/104080429/a774863e-c209-4197-b93d-61f10d6f643b" alt="adismort X handle" height="56" width="56" />
-</a>-->
+<img align="center" src="https://github.com/adismort14/adismort14/assets/104080429/a774863e-c209-4197-b93d-61f10d6f643b" alt="adismort X handle" height="56" width="56" />
+</a>
 
 </p>
 
