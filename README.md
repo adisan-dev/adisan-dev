@@ -18,16 +18,15 @@
 
 - You will catch me
   - building, always. 
- <!-- - deepdiving into the LLM space. -->
   - tackling the hardest problem I find.
     
 <!-- - 📫 Reach me at **adityasankhla14@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://in.linkedin.com/in/adismort" target="blank"><img align="center" src="linkedin_icon.png" alt="adismort" height="64" width="64" /></a>
-<a href="https://twitter.com/adismort" target="_blank"> 
-  <img align="center" src="https://github.com/adismort14/adismort14/assets/104080429/a774863e-c209-4197-b93d-61f10d6f643b" alt="adismort X handle" height="56" width="56" />
+<!-- <a href="https://in.linkedin.com/in/adismort" target="blank"><img align="center" src="linkedin_icon.png" alt="adismort" height="64" width="64" /></a> -->
+<a href="https://twitter.com/adisan_twt" target="_blank"> 
+<!--  <img align="center" src="https://github.com/adismort14/adismort14/assets/104080429/a774863e-c209-4197-b93d-61f10d6f643b" alt="adismort X handle" height="56" width="56" />
 </a>-->
 
 </p>
@@ -46,7 +45,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=adisan-dev&show_icons=true&locale=en&theme=aura_dark" alt="adisan" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=adisan-dev&theme=aura_dark" alt="adisan" /></td>
+    <!-- <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=adisan-dev&theme=aura_dark" alt="adisan" /></td> -->
   </tr>
 </table>
 
